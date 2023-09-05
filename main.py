@@ -1,2 +1,2 @@
-name = input("Enter name: ")
+name = input("Enter your name: ")
 print ("Hello World {}".format(name))
